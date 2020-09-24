@@ -1,0 +1,9 @@
+frmClient = 154, 154, 562, 500, Z, 132, 132, 540, 478, C
+frmClientOptions = 0, 0, 408, 346, C, 154, 154, 562, 500, C
+modClient = 22, 22, 430, 368, C
+modDeclares = 220, 220, 736, 668, C
+modTaskStuff = 66, 66, 474, 412, C
+modIni = 176, 176, 692, 624, C
+modLogfile = 198, 198, 736, 643, C
+frmPrivate = 44, 44, 585, 489, C, 22, 22, 563, 467, C
+frmPassword = 88, 88, 632, 533, C, 66, 66, 610, 511, C
